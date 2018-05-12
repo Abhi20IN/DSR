@@ -125,3 +125,4 @@ ENV/
 .ropeproject
 
 .idea/
+.Rproj.user
